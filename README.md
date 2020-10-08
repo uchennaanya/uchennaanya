@@ -12,7 +12,7 @@ I'm a software engineer && Full-stack Developer who is passionate about making o
 ### Github Stats
 
 ![Divyesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uchennaanya&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchennaanya&layout=compact&theme=dracula
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchennaanya&layout=compact&theme=dracula)
 
 ## Find me around the web :earth_africa::
 
