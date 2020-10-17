@@ -2,7 +2,7 @@
 
 ![image](./uchennaanya.jpg)
 
-I'm a software engineer && Full-stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Python, Flutter, HTML, CSS.
+I'm a software engineer && Full-stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Bootstrap, PhP, WordPress, Ruby, ReactJs, HTML, CSS.
 
 - 🔭 I’m currently working as Freelance Developer
 - 🌱 I’m currently learning Ruby on Rails.
@@ -11,7 +11,7 @@ I'm a software engineer && Full-stack Developer who is passionate about making o
 
 ### Github Stats
 
-![Divyesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uchennaanya&show_icons=true&theme=dracula)
+![Uchenna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uchennaanya&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchennaanya&layout=compact&theme=dracula)
 
 ## Find me around the web :earth_africa::
