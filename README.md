@@ -1,6 +1,6 @@
 ## Hi there, I'm Uchenna Martins Anya 👋 :man:&zwj;💻
 
-<p style="height: 200px"><img src="./uchenna.jpg" width="100%" height="200px" /></p>
+<p style="height: 200px"><img src="./uchenna.jpg" width="100%" height="350px" /></p>
 
 I'm a software engineer && Full-stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Bootstrap, PhP, WordPress, Ruby, ReactJs, HTML, CSS.
 
