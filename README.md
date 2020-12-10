@@ -1,12 +1,9 @@
 ## Hi there, I'm Uchenna Martins Anya 👋 :man:&zwj;💻
 
-<p style="height: 200px"><img src="./uchenna.jpg" width="100%" height="400px" /></p>
-
-I'm a software engineer && Full-stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Bootstrap, PhP, WordPress, Ruby, ReactJs, HTML, CSS.
+I'm a software engineer who is passionate about making the web a safe place for all. Some technologies I enjoy working with include Bootstrap, PhP,Ruby, Ruby on Rails, Javascript, WordPress, Ruby, ReactJs, HTML, CSS, SaaS.
 
 - 🔭 I’m currently working as Freelance Developer
-- 🌱 I’m currently learning Ruby on Rails.
-- 👯 I’m looking to collaborate with other Developers.
+- 👯 I’m looking to collaborate with other Developers
 - 💻 I'm looking for a new opportunies
 
 ### Github Stats
