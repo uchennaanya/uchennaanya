@@ -1,6 +1,6 @@
 ## Hi there, I'm Uchenna Martins Anya 👋 :man:&zwj;💻
 
-I'm a software engineer who is passionate about making the web a safe place for all. Some technologies I enjoy working with include Bootstrap, PHP, Ruby, Ruby on Rails, Javascript, WordPress, Ruby, ReactJs, HTML, CSS, SaaS.
+I'm a software engineer who is passionate about making the web a safe place for all. Some technologies I enjoy working with include Bootstrap, PHP, Ruby, Ruby on Rails, Javascript, WordPress, Ruby, ReactJs, HTML, NodeJS, ReactJS, CSS, SaaS, AWS, Azure, Google Cloud.
 
 - 🔭 I’m currently working as a Freelance Developer
 - 👯 I’m looking to collaborate with other developers around the world
@@ -30,7 +30,7 @@ I'm a software engineer who is passionate about making the web a safe place for 
   <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
   
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">  
+  <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">  
   
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank">  
