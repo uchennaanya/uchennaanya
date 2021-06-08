@@ -25,7 +25,9 @@ I'm a software engineer who is passionate about making the web a safe place for 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">  
   
   
-  <img src="https://img.freepik.com/free-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_9233-187.jpg?size=626&ext=jpg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
+  <img src="https://img.freepik.com/free-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_9233-187.jpg?size=626&ext=jpg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">  
+  
+  <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
   
   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">  
