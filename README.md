@@ -33,7 +33,7 @@ I'm a software engineer who is passionate about making the web a safe place for 
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank">  
   
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcss-code&psig=AOvVaw05jqCg9dihOyNS8-dBTSf2&ust=1623260980008000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCSl87MiPECFQAAAAAdAAAAABAD" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank">
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank">
   
   
   <img src="https://img.favpng.com/6/0/21/css3-cascading-style-sheets-html5-scalable-vector-graphics-png-favpng-cf2h2McVJwh7bEZPXcntUjQDQ_t.jpg" alt="sass" width="40" height="40"/> </a> </p>
