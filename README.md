@@ -19,10 +19,10 @@ I'm a software engineer who is passionate about making the web a safe place for 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fhtml5-png%2FHA1psUJd&psig=AOvVaw1pQTPILv_fhtzKXkcRR_l6&ust=1623260430528000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjrgMPKiPECFQAAAAAdAAAAABAD" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
   
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">  
+  <img src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">  
   
   
   <img src="https://img.freepik.com/free-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_9233-187.jpg?size=626&ext=jpg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">  
