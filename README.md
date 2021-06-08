@@ -30,7 +30,14 @@ I'm a software engineer who is passionate about making the web a safe place for 
   <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
   
   
-  <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">  
+  <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">
+  
+  
+  
+  <img src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">
+  
+  
+  
   
   
   <img src="http://pngimg.com/uploads/php/php_PNG50.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank">
