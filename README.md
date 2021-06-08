@@ -19,7 +19,7 @@ I'm a software engineer who is passionate about making the web a safe place for 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/ruby-2752084-2284901.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
   
   
   <img src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">  
